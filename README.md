@@ -8,6 +8,7 @@ The Decentralized Time Travel Coordination Network (DTCN) is a blockchain-based 
 ### Temporal Integrity Contract
 Maintains the coherence of the timeline and prevents causality violations.
 
+
 Key features:
 - Paradox detection algorithms
 - Causality chain verification
