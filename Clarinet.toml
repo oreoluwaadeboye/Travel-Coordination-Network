@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/alternate-reality-tracking.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.temporal-ethics-compliance]
+path = 'contracts/temporal-ethics-compliance.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
